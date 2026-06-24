@@ -10,11 +10,11 @@ If it's not here, I didn't ship it.
 
 ---
 
-**2026 goal:** 24 long-form articles + 10 newsletter issues
+**2026 goal:** 50 long-form articles + 10 newsletter issues
 
 | | Count |
 |---|---|
-| Articles published | 25 |
+| Articles published | 45 |
 | GitHub tutorial repos | 0 |
 | Talks / podcasts | 0 |
 
