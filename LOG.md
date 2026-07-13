@@ -4,7 +4,11 @@
 
 ### July
 
-- **08 Jul, 2026** · [TypeScript Decorators: The Complete Guide From First Principles to Production](https://medium.com/@manisuec/typescript-decorators-the-complete-guide-from-first-principles-to-production-4f9fbf469485)
+- **13 Jul, 2026** · [Try-Catch Everywhere? 4 Patterns Senior Devs Use Instead](https://techinsights.manisuec.com/nodejs/error-handling-senior-dev-patterns/)
+
+- **08 Jul, 2026** · [TypeScript 7.0 Is Here And It’s Written in Go](https://medium.com/@manisuec/typescript-7-0-is-here-and-its-written-in-go-55df6fa73cda)
+
+- **07 Jul, 2026** · [TypeScript Decorators: The Complete Guide From First Principles to Production](https://medium.com/@manisuec/typescript-decorators-the-complete-guide-from-first-principles-to-production-4f9fbf469485)
 
 
 ### June
