@@ -14,8 +14,8 @@ If it's not here, I didn't ship it.
 
 | | Count |
 |---|---|
-| Articles published | 45 |
+| Articles published | 50 |
 | GitHub tutorial repos | 0 |
-| Talks / podcasts | 0 |
+| Talks / podcasts | 1 |
 
 → Full log in [LOG.md](./LOG.md)
