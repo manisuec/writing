@@ -4,6 +4,8 @@
 
 ### July
 
+- **20 Jul, 2026** . [Building a Production AI Agent with Node.js and TypeScript: The Complete 2026 Stack](https://medium.com/@manisuec/building-a-production-ai-agent-with-node-js-and-typescript-the-complete-2026-stack-34d81c94c1f3)
+
 - **13 Jul, 2026** · [Try-Catch Everywhere? 4 Patterns Senior Devs Use Instead](https://techinsights.manisuec.com/nodejs/error-handling-senior-dev-patterns/)
 
 - **08 Jul, 2026** · [TypeScript 7.0 Is Here And It’s Written in Go](https://medium.com/@manisuec/typescript-7-0-is-here-and-its-written-in-go-55df6fa73cda)
